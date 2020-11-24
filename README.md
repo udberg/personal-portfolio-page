@@ -1,2 +1,2 @@
-# techical-documentation-page
-This was built as requirement for the responsive web design certification on freeCodeCamp
+# personalportfoliopage
+ personal portfolio page showcasing all of freeCodeCamp's responsive web design projects
